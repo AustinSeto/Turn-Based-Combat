@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Combatants;
+package src.Combatants;
 
 /**
  *
  * @author setoa
  */
 public class Wizard extends Combatant {
-//yer a wizurd herry!
 
     public Wizard(int level, String name) {
         super(level);

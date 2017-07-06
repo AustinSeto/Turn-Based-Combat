@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Combatants;
+package src.Combatants;
 
-import SpecialMoves.SpecialMove;
+import src.SpecialMoves.SpecialMove;
 
 /**
+ * Abstract parent class for all combatants
  *
  * @author Austin Seto
  */

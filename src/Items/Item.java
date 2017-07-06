@@ -3,14 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Items;
+package src.Items;
 
-import Combatants.Combatant;
-import SpecialMoves.SpecialMove;
+import src.Combatants.Combatant;
+import src.SpecialMoves.SpecialMove;
 
 /**
+ * Abstract parent class for all items
  *
- * @author setoa
+ * @author Austin Seto
  */
 public abstract class Item {
 

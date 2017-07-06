@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package SpecialMoves;
+package src.SpecialMoves;
 
-import Combatants.Combatant;
+import src.Combatants.Combatant;
 
 /**
+ * Abstract class for all special moves.
  *
- * @author setoa
+ * @author Austin Seto
  */
 public abstract class SpecialMove {
 
